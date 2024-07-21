@@ -1,4 +1,8 @@
 ## Fields
+1. SW(Embedded, AI)
+2. Translation - English <-> Korean (Korean native)
+3. Protocols
+4. +@
 
 ## Stacks
 
@@ -14,6 +18,12 @@
 ----
 
 ## Backgrounds
+
+### Bachelor in Politics & IR(International Relations), International Trade
+
+### SSAFY(Embedded Track)
+- 2024.01~2024.05
+- Trainee representative(Gwangju Campus)
 
 <!--
 **DoHyupBae/DoHyupBae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
